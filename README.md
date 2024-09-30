@@ -1,4 +1,6 @@
-# Nike App
+# Nike App 
+ - [Live Demo](https://your-netlify-deployed-site-url)
+
 
 This is a responsive web application built with React, featuring a collapsible hamburger menu for navigation, deployed on Netlify. Below is an outline of the key features.
 
